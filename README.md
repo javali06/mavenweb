@@ -12,5 +12,4 @@ and configure jenkins
 3.git for this project
 webhook trigger  t jenkins......
 
-hi from javali
-webhooks
+hello webhooks - by javali
